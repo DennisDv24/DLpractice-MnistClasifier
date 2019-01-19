@@ -1,1 +1,1 @@
-#DL mnist clasifier practice
+# DL mnist clasifier practice
